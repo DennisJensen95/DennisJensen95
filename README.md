@@ -2,7 +2,7 @@
 
 I am Dennis, educated in Engineering with a masters degree in Electrotechnology
 \- specialized in automation and robotics. I took a general interest in software
-and I am striving to become an excellent general Software Enginneer. I try to
+and I am striving to become an excellent Software Enginneer. I try to
 involve my self in all ends of the software applications I work on. From
 application platform infrastructure to the developer operations, business logic
 and all the way to the frontend.
