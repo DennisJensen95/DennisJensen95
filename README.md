@@ -11,7 +11,7 @@ I try to optimize my own software development workflow for creating solid and
 reliable software applications while knowing why I am developing the application
 feature for the clients use case.
 
-- 🔭 I’m currently working on IoT Gateways.
+- 🔭 I’m currently working on IoT Gateways. Unify SDK - https://www.silabs.com/developers/unify-sdk
 - 🌱 I love to learn and I'm currently learning multiple things.
   - I am focusing on learning DevOps, Data Engineering, Cloud infrastructure, Software architecture and TDD development workflow.
   - I am mastering these concepts mainly in programming languages such as Rust, Golang, C/C++ and python. Cloud infrastructure design I use terraform, Docker, Kubernetes and ansible.
