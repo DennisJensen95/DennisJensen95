@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Dennis, educated in Engineering with a masters degree in Electrotechnology
+My name is Dennis, educated in Engineering with a masters degree in Electrotechnology
 \- specialized in automation and robotics. I took a general interest in software
 and I am striving to become an excellent Software Enginneer. I try to
 involve my self in all ends of the software applications I work on. From
